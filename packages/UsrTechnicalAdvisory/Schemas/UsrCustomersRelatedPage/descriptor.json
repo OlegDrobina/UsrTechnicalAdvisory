@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "74c260f3-1c62-4cfc-9053-0547204d39c0",
+    "Name": "UsrCustomersRelatedPage",
+    "ModifiedOnUtc": "\/Date(1772113740000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Customers (Page settings)",
+    "DependsOn": []
+  }
+}

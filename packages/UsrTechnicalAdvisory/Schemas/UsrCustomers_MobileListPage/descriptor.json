@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d5af9c7f-ac92-42e6-b568-f830b5bef64c",
+    "Name": "UsrCustomers_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1772113740000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Customers mobile list page",
+    "DependsOn": []
+  }
+}

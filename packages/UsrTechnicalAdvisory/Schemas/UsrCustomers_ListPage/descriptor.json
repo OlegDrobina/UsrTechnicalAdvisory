@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "49d7d298-c181-43cb-8475-4c4d7765433b",
+    "Name": "UsrCustomers_ListPage",
+    "ModifiedOnUtc": "\/Date(1772113740000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Customers list page",
+    "DependsOn": []
+  }
+}

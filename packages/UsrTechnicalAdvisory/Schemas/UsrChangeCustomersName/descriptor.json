@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d084d292-9967-4663-b4ea-ae5436f50c00",
+    "Name": "UsrChangeCustomersName",
+    "ModifiedOnUtc": "\/Date(1772113883000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Change the customer's name",
+    "DependsOn": []
+  }
+}
