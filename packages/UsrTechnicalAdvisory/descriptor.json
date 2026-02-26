@@ -1,16 +1,17 @@
-﻿{
+{
   "Descriptor": {
     "UId": "e15986de-0719-430b-9949-7a6d2e6a6cc8",
+    "PackageVersion": "1.0.1",
     "Name": "UsrTechnicalAdvisory",
     "Type": 1,
-    "Maintainer": "Customer",
     "ProjectPath": "Files/UsrTechnicalAdvisory.csproj",
+    "ModifiedOnUtc": "/Date(1772115323000)/",
+    "Maintainer": "Customer",
     "DependsOn": [
       {
         "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
         "PackageVersion": "7.8.0",
-        "Name": "CrtCore",
-        "Type": 1
+        "Name": "CrtCore"
       }
     ]
   }
