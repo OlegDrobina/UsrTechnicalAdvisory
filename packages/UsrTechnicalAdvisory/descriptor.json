@@ -1,11 +1,11 @@
 {
   "Descriptor": {
     "UId": "e15986de-0719-430b-9949-7a6d2e6a6cc8",
-    "PackageVersion": "1.0.1",
+    "PackageVersion": "1.0.3",
     "Name": "UsrTechnicalAdvisory",
     "Type": 1,
     "ProjectPath": "Files/UsrTechnicalAdvisory.csproj",
-    "ModifiedOnUtc": "/Date(1772115323000)/",
+    "ModifiedOnUtc": "/Date(1772116599000)/",
     "Maintainer": "Customer",
     "DependsOn": [
       {
